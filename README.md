@@ -1,6 +1,6 @@
 # AdobeGen.exe Manual 📘
 
-Welcome to **AdobeGen.exe**! This program is designed to help you with . Follow this simple guide to install and use it.
+
 
 ---
 
