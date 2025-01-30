@@ -1,7 +1,9 @@
-# AdobeGen.exe Manual 📘
 
 
+virustotal : https://www.virustotal.com/gui/file/65cdc9bfc31af8ecb527085b2d135eb1272c1703ad604bf62e59e694319c7a61
 
+
+# AdobeGen Manual 📘
 ---
 
 ## 🚀 Getting Started
@@ -46,18 +48,21 @@
    - Restart your computer and try again.
 
 ---
+❓ Frequently Asked Questions (FAQ)
+1. Does this software require an internet connection to work?
+No, once installed, the software works completely offline. However, some features, like cloud-based tools, may require an internet connection.
 
-## ❓ Frequently Asked Questions (FAQ)
+2. Will this program slow down my computer?
+The program is optimized for performance, but system requirements matter. If your computer has low RAM (under 8GB) or an older CPU, performance may be affected, especially when using AI-powered tools.
 
-### 1. **Can I use this program on macOS or Linux?**
-   - No, this program only works on Windows.
+3. Can I use my Adobe account with this version?
+No, this version does not require an Adobe login. It works independently without linking to an Adobe account, so you don’t need to worry about subscription issues.
 
-### 2. **Is this program safe to use?**
-   - Yes, as long as you download it from a trusted source.
+4. Is there a risk of losing my projects if I update the software?
+No, your projects are stored separately. However, it’s recommended to backup your work before updating, just in case any compatibility issues arise.
 
-### 3. **How do I update the program?**
-   - Download the latest version of `AdobeGen.exe` and replace the old file.
-
+5. Does this include all Photoshop 2025 features?
+Yes, it includes all the essential features, including Generative Fill and other AI tools. However, some cloud-based features may not work since they require Adobe's official servers.
 ---
 
 ## 📄 License
@@ -66,4 +71,4 @@ This program is free to use. You can modify and share it as long as you credit t
 
 ---
 
-Enjoy using **AdobeGen.exe**! 🚀
+Enjoy using **AdobeGen**! 🚀
