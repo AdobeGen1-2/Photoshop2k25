@@ -1,6 +1,6 @@
 
 
-virustotal : https://www.virustotal.com/gui/file/65cdc9bfc31af8ecb527085b2d135eb1272c1703ad604bf62e59e694319c7a61
+VirusTotal 🔍🛡️ : https://www.virustotal.com/gui/file/65cdc9bfc31af8ecb527085b2d135eb1272c1703ad604bf62e59e694319c7a61
 
 
 # AdobeGen Manual 📘
